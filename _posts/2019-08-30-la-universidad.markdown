@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La universidad
-subtitle: Con que sea la mitad de lo que nos han contado, me conformo 
+subtitle: Con que sea verdad la mitad de lo que nos han contado, me conformo 
 ---
 Hoy hemos tenido la presentación a los estudiantes internacionales (extranjeros sonaba un poco raro) y ha sido flipante, no sólo por la organización, unas diez charlas todas empezando y terminando a la hora que se indicaba, sino también por el mensaje que transmitían y que coincide bastante con la filosofía que hemos defendido siempre en Tecnilógica / Liquid Squad: poca jerarquía, no tener miedo a preguntar ni a equivocarse, ser curiosos, no hacer las cosas por inercia y apoyarse en el equipo, ya sean _counselors_, tutores, profesores o compañeros.
 
@@ -16,4 +16,4 @@ No me ha quedado otra y he conocido a gente del máster (dos españoles, un ital
 Y no, no nos han puesto deberes ni hemos tenido la primera clase ni nada. Eso, el lunes.
 
 ![el campus... aunque parece más el aguus](/img/0005.JPG)
-Curiosidad: en 2012, el campus de Copenhague se trasladó a las oficinas de Nokia.
+Curiosidad: El campus está situado en las antiguas oficinas de Nokia en Copenhague.
