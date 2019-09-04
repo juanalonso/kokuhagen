@@ -22,14 +22,14 @@ layout: default
           </a>
         </h3>
         {%- if post.subtitle -%}
-          {{ post.subtitle }} 
-          <a href="{{ post.url | relative_url }}"> Seguir leyendo... </a>
+          {{ post.subtitle }}. 
+          <a href="{{ post.url | relative_url }}"> Seguir leyendo. </a>
         {%- endif -%}
       </li>
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Suscríbete al RSS</a></p>
   {%- endif -%}
 
 </div>
