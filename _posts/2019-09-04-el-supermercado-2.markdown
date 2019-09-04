@@ -3,7 +3,7 @@ layout: post
 title: El supermercado (2)
 subtitle: Pescados y cajas 
 ---
-Dos apuntes sobre lo que contaba en [El supermercado]({% post_url 2019-08-31-el-supermercado %})
+Dos apuntes sobre lo que contaba en ["El supermercado"]({% post_url 2019-08-31-el-supermercado %}):
 
 * Sigo investigando el tema de que no haya casi pescado en el súper. En un inesperado giro de guión, hoy en la puerta había una furgoneta blanca vendiendo pescado, sin ningún tipo de marca ni filiación ni nada, solo con la palabra "pescado" (_fisk_).
 
