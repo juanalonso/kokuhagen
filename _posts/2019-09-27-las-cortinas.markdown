@@ -17,5 +17,5 @@ La tercera, **la cortina del dormitorio**, que estamos en las mismas del salón:
 
 Harto ya de tanto montaje, taladro, llaves Allen... he optado por la solución más cutre posible: he comprado una barra de ducha extensible, de las que se sostienen por presión y las cortinas más baratas que había (a dos euros la unidad) Cuando he llegado a casa me he dado cuenta de que las cortinas, aparte de ser casi transparentes de lo finas que son (que me vale) son muy cortas, y se quedan como a medio metro del suelo, lo que es bastante ridículo, pero era eso o poner un cartón, así que mejor. 
 
-![las cortinas de la vergüenza](/img/0021.JPG)
+![las cortinas de la vergüenza](/img/0022.JPG)
 
