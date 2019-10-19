@@ -11,6 +11,7 @@ social:
 lang: es
 
 baseurl: "" 
+future: false
 
 twitter_username: kokuma
 show_excerpts: true
