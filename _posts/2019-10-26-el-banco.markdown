@@ -1,0 +1,20 @@
+---
+layout: post
+title: El banco
+subtitle: Todo por integrarme
+---
+De momento, el tema burocracia no me está dando mucha guerra. Es sólo el rollo de ir completando etapas. Ahora me toca abrir una cuenta bancaria. No me puedo saltar el trámite, ya que me va a facilitar las transferencias al casero, contratar el teléfono y cosas así.
+
+El tema es que aquí el funcionamiento de los bancos es un poco... peculiar, y abrir una cuenta es más complicado. Me pasé por una sucursal random (pero normal, nada de sucursal o banco para empresas) a preguntar qué necesitaba para abrir la cuenta y que me dieran información de las condiciones y lo único que me llevé fue un formulario con los típicos campos (nombre, dirección, teléfono, etc.) y un cuestionario que transcribo a continuación por su interés:
+
+* ¿Por qué quieres ser cliente de este banco?
+* ¿Tienes cuentas en otros bancos?
+* ¿Qué liquidez tienes? ¿Cómo la has conseguido?
+* ¿Cuánto dinero vas a ingresar en el banco?
+* ¿Cuántos son tus ingresos anuales? ¿Tienes ingresos adicionales?
+* ¿Cuánto dinero piensas *ingresar* anualmente en los cajeros? ¿De dónde viene ese dinero?
+* ¿Cuánto dinero piensas *sacar* anualmente de los cajeros? ¿Por qué sacas dinero en vez de hacer una transferencia? ¿Qué vas a hacer con ese dinero?
+* ¿Cuánto dinero vas a transferir desde el extranjero? ¿Por qué?
+* ¿Cuánto dinero vas a transferir al extranjero? ¿Por qué?
+
+Deseadme suerte.
