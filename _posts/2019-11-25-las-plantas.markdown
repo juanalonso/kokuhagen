@@ -3,7 +3,7 @@ layout: post
 title: Las plantas
 subtitle: El padre Mundina
 ---
-[Hace tiempo comentaba la abundancia de plantas en los supermercados]({% post_url 2019-10-02-las-flores %}) pues total, planta que veo a 10 coronas o menos (1.3€) planta que pillo. 
+[Hace tiempo comentaba la abundancia de plantas en los supermercados]({% post_url 2019-10-02-las-flores %})... pues total, ahora planta que veo a 10 coronas o menos (1.3€) planta que pillo. 
 
 ![La florería](/img/0029.JPG)
 
