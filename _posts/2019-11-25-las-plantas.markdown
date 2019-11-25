@@ -13,4 +13,4 @@ En la esquina superior derecha tengo un kalanchoe (la de las flores naranja) que
 
 En la esquina inferior izquierda, un amaryllis (aunque la flor es rojis 🥁), la planta monstruo mutante, el sanbernardo de las flores... que la compras como una plantita inocente de 10cm de altura y en cuanto te descuidas, crece hasta los 70 centímetros, echa unas flores del tamaño de un bebé y del propio peso, se vuelca el tiesto y se troncha el tallo 😵
 
-Y por último, otro kalanchoe (que lo he dejado dentro y medra igual), un jacinto en potencia y una jardinera con una bandeja con ¡38! bulbos (la alegría de la terraza o algo así) que tenían de oferta en el Lidl: tierra, bandeja, más tierra y a esperar. He guardado la caja par sacar una foto de "cuando lo pides / cuando te llega"
+Y por último, otro kalanchoe (que lo he dejado dentro y medra igual), un jacinto en potencia y una jardinera con una bandeja con ¡38! bulbos ("la alegría de la terraza" o algo así se llama) que tenían de oferta en el Lidl: tierra, bandeja, más tierra y a esperar. He guardado la caja par sacar una foto de "cuando lo pides / cuando te llega"
