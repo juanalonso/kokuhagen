@@ -5,7 +5,7 @@ subtitle: Ni un alma
 ---
 Los cementerios de aquí son flipantes. Realmente, son parques en los que hay tumbas. Nada de caminos estrechitos entre mausoleos y panteones, sino explanadas con bancos, estanques, caminos... donde va la gente a pasear con los carritos de los niños, a sacar al perro (con correa, eso sí), a correr, a comer o incluso a pelar la pava (ay, la adolescencia)
 
-Uno de ellos, el Vestre Kirkegård, me pilla entre casa y la uni y cuando no diluvia, voy dando un paseo y lo atravieso. 
+Uno de ellos, el Vestre Kirkegård, me pilla entre casa y la uni y cuando no diluvia, lo atravieso dando un paseo. 
 
 [![Rascayú](/img/0032.JPG)](/img/0032.JPG)
 
