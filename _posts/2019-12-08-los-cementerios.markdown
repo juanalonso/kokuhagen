@@ -7,10 +7,10 @@ Los cementerios de aquí son flipantes. Realmente, son parques en los que hay tu
 
 Uno de ellos, el Vestre Kirkegård, me pilla entre casa y la uni y cuando no diluvia, lo atravieso dando un paseo. 
 
-[![Rascayú](/img/0032.JPG)](/img/0032.JPG)
+![Rascayú](/img/0032.JPG)
 
 Muchas de las tumbas tienen macetas, figuritas, lamparitas LED con célula solar... aunque también hay lápidas imponentes. A ver si nieva, que debe estar curioso verlo blanco. 
 
 Eso sí, el otro día se me ocurrió atravesarlo de noche (ya eran las 16:30, a quién se le ocurre), y no se lo recomiendo a nadie: no está iluminado en absoluto y hay que atravesarlo a ciegas, o usando la linterna del móvil. No es que dé miedo, pero al final ver las luces LED débilmente iluminadas y no escuchar ni un ruido... me llego a cruzar con alguien y seguro que me hubiera llevado un buen susto.
 
-[![Cuando mueras qué harás tú](/img/0033.JPG)](/img/0033.JPG)
+![Cuando mueras qué harás tú](/img/0033.JPG)
